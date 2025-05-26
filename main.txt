@@ -1,0 +1,36 @@
+Anotações sobre o CSS
+
+Seletor Universal aplica todos seletores *{}
+
+Seletor por atributo [type="text"]{}
+
+Seletor por Pseudos  :hover{}
+
+Medidas Absolutas
+-Centimetros(cm)
+-Milimetros (mm)
+-Polegadas (in)
+-Pixels (px)
+-Pontos (pt)
+-Paicas (pc)
+
+Medidas Relativas
+-Porcetagem (%)
+-M (em)
+-ROot M (rem)
+-Unidade do Caractere (ch)
+-X (ex)
+-Largura da janela de exibição (vw)
+-Altura da janela de exibição (vh)
+-janela de exibição Mínima (vmin)
+-Janela de exibição máxima (vmax)
+-Fração Restante (fr)
+
+Modelo de caixa Box Model
+
+-margens, bordas, preenchimento eo conteudo
+
+*box-sizing:content-box; conteudo que define o tamanho da caixa
+*box-sizing:border-box; delimita a caixa fica fixo.
+
+

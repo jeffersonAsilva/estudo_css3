@@ -1,0 +1,16 @@
+
+body{
+    background-color: #17181c;
+    color: #fff;
+    font-family: sans-serif;
+}
+
+.acao{
+    background-color: aqua;
+    border: 2px solid;
+    margin: 50px;
+    padding: 15px 40px;
+}
+.novo{
+    display: flex;
+}
