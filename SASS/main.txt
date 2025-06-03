@@ -1,0 +1,6 @@
+-aqui vamos entender mais sobre o compilador de css o SASS.
+-utilizaremos um extesão para vscode a hero.
+-vamos aprender sobre o aninhamento.
+-conhecemos o pravatar
+-aprendendo utilizar variáveis no SASS
+- variáveis locais ,globais e default

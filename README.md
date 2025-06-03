@@ -1,42 +1,26 @@
-# simple_linear_regression
+# CSS3
 
-Description.
-The package simple_linear_regression is used to:
+```
+Descrição.
+: Uma breve estudo sobre o CSS3
 
-    Model Analysis :
-    	- Plot fit model
-        - statistical results table
+    O CSS3 é a sigla que designa a terceira versão da linguagem conhecida como CSS. Essa sigla se refere às palavras Cascading, Style e Sheets, que podem ser traduzidas como Folha de Estilos em Cascata. Por definição, esses conceitos se integram através das seguintes etapas:
 
-## Installation
+    Cascading: estilos aplicados aos elementos em uma página da web se propagam para os elementos dentro dela em cascata;
+    Style: as indicações CSS são a base para aplicar estilos visuais aos diferentes elementos das páginas web;
+    Sheets: após a criação dos estilos de uma página web, eles são adicionados em arquivos ou planilhas separadas com a extensão .css.
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install simple_linear_regression
-
-```bash
-pip install simple_linear_regression
 ```
 
-## Usage
-
-```python
- import plot_regression.plot_map as mp
-
-mp.plot_regression(data['GPA'],data['SAT']);
+## SASS
 ```
+Sass é uma linguagem de folha de estilo que é compilada para CSS. Ele permite que você use variáveis, regras aninhadas, mixins, funções e muito mais, tudo com uma sintaxe totalmente compatível com CSS. A Sass ajuda a manter grandes folhas de estilo bem organizadas e facilita o compartilhamento de design dentro e entre  projetos.
 
-<img width="auto" src="https://github.com/jeffersonAsilva/Gera-o-Tech-Unimed-BH_criando_pacotes/blob/main/linear.png">
-
-```python
- import plot_regression.results_table as tb
-
-tb.result_table(data['GPA'],data['SAT'])
 ```
-
-<img width="auto" src="https://github.com/jeffersonAsilva/Gera-o-Tech-Unimed-BH_criando_pacotes/blob/main/table3.png">
 
 ## Author
 
 Jefferson A Silva
 
-## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+
